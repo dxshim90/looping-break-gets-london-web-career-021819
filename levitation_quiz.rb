@@ -1,6 +1,6 @@
 
 def levitation_quiz
-  print ""
+  print "What is the spell that enacts levitation?"
 	#your code here
 end
 
